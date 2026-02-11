@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Anurag Shah</h1>
-<h3 align="center">Frontend-focused Full-Stack Developer • DSA Explorer • Builder of Interactive Systems</h3>
+<h3 align="center">Full-Stack Developer • DSA Explorer • Builder of Interactive Systems</h3>
 
 ---
 
