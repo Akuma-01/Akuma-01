@@ -57,7 +57,7 @@
 ### 🔹 DSA Sorting Visualizer
 Interactive algorithm visualization system with step-timeline model, code-line sync, and operation tracking.
 
-**Live:** https://dsa-visualizer-01.vercel.app/
+**Live:**  https://dsa-visualizer-swart.vercel.app/
 
 Tech: React, TypeScript, Tailwind, Vite
 
@@ -65,6 +65,8 @@ Tech: React, TypeScript, Tailwind, Vite
 
 ### 🔹 BlogHub
 Full blogging platform with authentication, media uploads, and visibility controls.
+
+**Live:**  https://blog-hub-ne21.vercel.app/
 
 Tech: React, Tailwind, Appwrite, Vite
 
