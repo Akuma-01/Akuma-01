@@ -39,8 +39,6 @@ Advanced React patterns &nbsp;·&nbsp; System design fundamentals &nbsp;·&nbsp;
 
 ### stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Akuma-01&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=00000000&hide_title=true&icon_color=666&text_color=888&title_color=ccc)
-&nbsp;
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akuma-01&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=6&text_color=888&title_color=ccc)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akuma-01&theme=github-dark-blue&hide_border=true&background=00000000&stroke=333&ring=555&fire=888&currStreakLabel=888&sideLabels=666&dates=555)
